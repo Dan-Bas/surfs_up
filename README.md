@@ -8,7 +8,7 @@ To analyze the weather in Hawaii to give crucial information to an investor in o
 
 - Min Temp:
 
-The minimum temperature in June is 64.0. The minimum temperature in December is 56.0.
+  The minimum temperature in June is 64.0. The minimum temperature in December is 56.0.
 
 - Max Temp:
 
