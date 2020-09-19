@@ -6,12 +6,17 @@ To analyze the weather in Hawaii to give crucial information to an investor in o
 
 ## Results
 
-- Min Temp
+- Min Temp:
+
 The minimum temperature in June is 64.0. The minimum temperature in December is 56.0.
-- Max Temp 
-The maximum temperature in June is 85.0. The maximum temperature in December is 83.0
-- Mean (Average)
-The mean temperature in June is 74.9. The mean temperature in December is 71.0
+
+- Max Temp:
+
+  The maximum temperature in June is 85.0. The maximum temperature in December is 83.0
+  
+- Mean (Average):
+
+  The mean temperature in June is 74.9. The mean temperature in December is 71.0
 
 ![graph1](Resources/june_temp.png)
 
